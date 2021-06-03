@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from the maior burgesses and other inhabitants of the towne of Hull to the right worshipfull the high sheriffe, and the rest of the gentrey and freeholders in the county of Yore [sic] now to attend His Majestie on Heyworth Moore, Iune 3, 1642 with the protestation of the gentry, freeholders and other inhabitants in the of the county of Yorke against a petition drawne up in the name of that county, dated Iune 3, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48143</idno><idno type="EEBO-CITATION">11733417</idno>
+  <idno type="VID">48431</idno>
+  <idno type="EEBO-PROQUEST">2248498876</idno>
+  
+            <idno type="STC">Wing L1609C</idno>
+            <idno type="STC">ESTC R30944</idno>
+            <idno type="OCLC">11733417</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1486:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from the maior burgesses and other inhabitants of the towne of Hull to the right worshipfull the high sheriffe, and the rest of the gentrey and freeholders in the county of Yore [sic] now to attend His Majestie on Heyworth Moore, Iune 3, 1642 with the protestation of the gentry, freeholders and other inhabitants in the of the county of Yorke against a petition drawne up in the name of that county, dated Iune 3, 1642.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 17, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48431:1"/>
+            <pb facs="tcp:48431:1"/>
+            <p>A LETTER SENT FROM THE MAIOR BVR<g ref="char:EOLhyphen"/>GESSES AND OTHER THE INHABITANTS OF THE TOWNE OF HULL, To the Right Worship<g ref="char:EOLhyphen"/>full the High Sheriffe, and the rest of the Gentrey and Freeholders in the County of <hi>YORE.</hi>
+            </p>
+            <p>Now to Attend His Maiestie on <hi>Heyworth Moore, Iune</hi> 3. 1642.</p>
+            <p>With the Protestation of the Gentry, Freeholders, and other Inhabitants of the County of <hi>Yorke,</hi> against a Petition drawne up in the Name of that County, dated <hi>Iune</hi> 3. 1642.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>I. T. Iune</hi> 17. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48431:2"/>
+            <pb facs="tcp:48431:2"/>
+            <head>Iune the second, 1642. TO THE RIGHT VVORSHIPFVLL THE High, and the rest of the Sheriffes, Gentry, in the County of <hi>York,</hi> now to attend his Sacred Maiesties summons and plea<g ref="char:EOLhyphen"/>sure on <hi>Heyworth More, Iune</hi> 3. 1642.</head>
+            <opener>
+               <salute>Gent.</salute>
+            </opener>
+            <p>NOw (if ever) stand fast, quitt your selves as Fa<g ref="char:EOLhyphen"/>thers of your Countrey, let it Appeare before God and all the world, that truely generous blood runnes in your veynes; evidence in Gods Name, your heartiest Loyalty and dearest affection to his most Sacred Maiesty, but while you remembtr the King, forget not the Kingdome for the Lords sake; put not asun<g ref="char:EOLhyphen"/>der those things which God hath so neerely joyned toge<g ref="char:EOLhyphen"/>ther, oh, consider the honour, the cause of God, the good successe of this present Parliament, your Lives, Lawes, li<g ref="char:EOLhyphen"/>berties, your temporall, your spirituall welfare lyes all a bleeding this day at your owne feete, and earnestly suppli<g ref="char:EOLhyphen"/>cate your best assistance.</p>
+            <p>Tell us wee beseech you; shall wee die, and you live; can it possibly goe well with you, whilst ill with us, is it
+<pb n="4" facs="tcp:48431:3"/> not your owne cause and qu<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ll, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y God and the Kings which wee maintaine, stand you not as much inte<g ref="char:EOLhyphen"/>ressed, and as deepely ingaged to appeare, for God and the Kings Honour as wee our selves; were wee disposed to Recriminate, wee cound Anathomize before God and man the worthinesse of those unreasonable men, the great zealots, not onely for the Ruine, but the eclipsing of the glory of this blessed Parliament, but our intent onely is to begge that all your hands, which in Justice you dare not, and in Charity (wee are sure) ought not to deny us, and thus your helpe and u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>most endeavour in this nicke of our (wee had almost said your) greatest necessity bee assured there was never a greater prize in your hands then at this time, in poore <hi>Hull</hi> are Imbark't two of the richest Jewells in the worid, Gods truth, and Christendomes peace, each of which in va<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uation farre exceedes a Kings Ransome, we delight not in a needlesse &amp; supe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous expence of words, And therefore wee shall in short tell you that wee or ra<g ref="char:EOLhyphen"/>ther God expects this day at all your hands viz. That you (and that with instance) Petition his most Excellent Maie<g ref="char:EOLhyphen"/>stie, to vouchsafe the influence of his Royall favo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and gra<g ref="char:EOLhyphen"/>tious presence to his great Councell, the High Court of Parliament, the onely way (in huma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e apprehen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion) to stanch the bleeding wounds of <hi>Ireland,</hi> and distracted <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>That you now helpe the Lords against the mighty; That with as humble boldnesse you manifest your ex<g ref="char:EOLhyphen"/>treame unwillingnesse to come in an hostile way against us, least you bring guiltlesse blood upon your owne heads, and kindle such a fire in <hi>England,</hi> as will never bee quenched; Assure your selves, that wirhout much Contention and greatest circumspection, you may raise up such a Spirit as will not be coniured downe againe in hast; worthies pon<g ref="char:EOLhyphen"/>der we beseech you our present but sad condition, set your selves before Gods awfull Barre, make our case your own,
+<pb n="5" facs="tcp:48431:3"/> Let your consciences speake, would you betray so great a trust committed to you, by so great a Councell; would you that we shoud wound t rough your sides, Heaven and Earth (what you shall attempt against us, will in the re<g ref="char:EOLhyphen"/>flection result upon God, the King, the Church, the State, your selves; would you to satisfie a good King, set open the Gates, and with the same Courtesie gratifie a very bad companie who seeke nothing lesse then either the safety of His Maiestyes Royall person and posterity; or the security of his Dominions and Leige people, would you have us wash our hands in your dearest blood, in some; would you have us render you the people of the Kings wrath; Wee are confident you would not; doe then (according to the primordiall Law) as you would be done unto, strike in wee beseech you effectually whil'st you have time, put not God upon another course of deliverance, least the honour of <hi>Yorkeshire</hi> be layd in the dust for ever.</p>
+            <p>Oh, give us in this great straight, reall Testimony of your Affections; and you shall for-ever have the acknowledge<g ref="char:EOLhyphen"/>ment of the reall obligations of all</p>
+            <closer>
+               <signed>Your affectionate friend, and humble servants in the poore Towne of <hi>Hull.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:48431:4"/>
+            <head>The Protestation of the Gentrey, Ministers, Free-holders, and other In<g ref="char:EOLhyphen"/>habitants of the County of <hi>Yorke,</hi> against a Petition drawne up in the name of that County, <hi>Bearing date the third of</hi> Iune, 1642.</head>
+            <p>VVHereas there is a printed Petition (in<g ref="char:EOLhyphen"/>tituled, To the right Honourable the Lords and Commons in Parliament assembled. The humble Petition of the Gentrey, Ministers, Free-holders, and other substantiall In<g ref="char:EOLhyphen"/>habitants of this County of <hi>Yorke</hi>) spread abroad in the County, which wee conceive to bee a geat wrong and scandall to all well affected persons, not onely in respect of the matter thereof which we utterly dislike, as laying an imputation upon the Parliament, si not giving life to the lawes of the
+<pb n="7" facs="tcp:48431:4"/> land &amp; likewise in charging thē to be the cause of the distractions of this Kingdome: but also, that it was never presented to the Countrey at the Gene<g ref="char:EOLhyphen"/>rall meeting the third of <hi>Iune,</hi> and albeit it was Printed the next day, and since read in divers Churches: We whose names are here subscribed, doe make our Protestation against the said Petiti<g ref="char:EOLhyphen"/>on, as no way ever approved on by us, or agree<g ref="char:EOLhyphen"/>ing with our sence. And wee doe hereby declare, that we shall (according to our Protestation lately taken by us) with our lives and fortunes defend his Maiesties Royall Person, Honour, and Estate, and also the power and priviledge of Parliament, together with the rights and liberties of the sub<g ref="char:EOLhyphen"/>iects; of which Rights and Liberties we conceive the Priviledges of Parliament to be the chiefe.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
